@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-created by Victoria Thai on 10/21/20 aat 3:25PM
-Step4: line added by Hadi on 10/21/20 at 14:13
-=======
-created by Victoria Thai on 10/21/20 at 3:25PM
-created by Hadi Al Musa on 10/21/20 at 4:05PM
->>>>>>> f813f65f9e753b1e38593705a50df766da876533
+
+STEP 1: created by Victoria Thai on 10/21/20 aat 3:25PM
+Step 3: created by Hadi Al Musa on 10/21/20 at 4:05PM
+STEP 4: line added by Victoria Thai 10/21/20 at 4:10PM
+Step 4: line added by Hadi on 10/21/20 at 14:13
+
